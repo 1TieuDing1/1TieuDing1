@@ -39,11 +39,3 @@
     <img src="https://img.icons8.com/?size=100&id=GN6LgEfShU2b&format=png&color=000000" alt="1TieuDing1-tiktok" />
   </a>
 </div>
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
-</div>
