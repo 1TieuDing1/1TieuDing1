@@ -1,6 +1,7 @@
 <!-- 1TieuDing1 -->
 <a href="#" target="_blank">
-  <img src="./svg/1tieuding1.svg" width="1200" alt="1tieuding1" />
+<!--   <img src="./svg/1tieuding1.svg" width="1200" alt="1tieuding1" /> -->
+  <h1 align="center">Chúa đã ban cho ta mana &amp; 2 bình máu </h1>
 </a>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -15,6 +16,7 @@
   </a>
 </div>
 
+<br>
 <br>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
