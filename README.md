@@ -26,7 +26,7 @@
   <a href="https://linktr.ee/1TieuDing" target="blank">
     <img width="90" height="90" src="https://img.icons8.com/?size=100&id=uk4FvDvBCzoX&format=png&color=000000" alt="1TieuDing1-linktr.ee" />
   </a>
-  <a href="https://www.facebook.com/1TieuDing1" target="blank">
+<!--   <a href="https://www.facebook.com/1TieuDing1" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="1TieuDing1-facebook" />
   </a>
   <a href="https://www.youtube.com/@1TieuDing" target="blank">
@@ -40,5 +40,5 @@
   </a>
   <a href="https://www.tiktok.com/@1tieuding" target="blank">
     <img src="https://img.icons8.com/?size=100&id=GN6LgEfShU2b&format=png&color=000000" alt="1TieuDing1-tiktok" />
-  </a>
+  </a> -->
 </div>
